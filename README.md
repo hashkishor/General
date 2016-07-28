@@ -1,2 +1,0 @@
-# EnglishDictionary
-English Dictionary
